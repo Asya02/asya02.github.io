@@ -9,8 +9,8 @@ profile:
   image: photo_me.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p><a href="https://t.me/hug_asya02">@LaHundo</a></p><br>
-    <p><a href="mailto:asya.yudina.710@gmail.com">gnu.xinm@gmail.com</a></p>
+    <p><a href="https://t.me/hug_asya02">@hug_asya02</a></p><br>
+    <p><a href="mailto:asya.yudina.710@gmail.com">asya.yudina.710@gmail.com</a></p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
